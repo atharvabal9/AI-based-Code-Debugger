@@ -1,6 +1,6 @@
-# AI Debug Assistant
+# AI Based Code Debugger
 
-AI Debug Assistant is a Spring Boot library designed to enhance the debugging process for developers by providing detailed
+AI Based Code Debugger is a Spring Boot library designed to enhance the debugging process for developers by providing detailed
 error explanations and possible solutions using AI, specifically leveraging the GroqCloud API.
 
 ## Features
