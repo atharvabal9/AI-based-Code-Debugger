@@ -52,7 +52,7 @@ controllers and provide AI-generated explanations and solutions.
 Here's an example of a basic Spring Boot application setup:
 
 ```java
-@SpringBootApplication(scanBasePackages = "com.kalayciburak")
+@SpringBootApplication(scanBasePackages = "com.abc")
 public class InventoryServiceApplication {
 
     public static void main(String[] args) {
